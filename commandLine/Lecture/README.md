@@ -1,6 +1,6 @@
-# CLI  (Command language Interpreter)
+# CLI  (Command Language Interpreter)
 ## Command line
-The command line (cli, shell) is the interface between  user and the operating system which interprets the commands and allows the computer to respond to the command.
+The command line (cli, shell) is the interface between user and the operating system which interprets the commands and allows the computer to respond to the command.
 
 
 ## General syntax
